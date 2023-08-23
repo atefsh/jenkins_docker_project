@@ -5,7 +5,7 @@ pipeline {
         DOCKER_IMAGE_NAME = 'jenkins_project_imgae'
         DOCKER_TAG = 'V1'
         CONTAINER_NAME = "final_jenkins_project_$BUILD_NUMBER"
-        SLEEP_TIME = '2'
+        SLEEP_TIME = '20'
     }
    
    
